@@ -1,6 +1,8 @@
 # java-design-patterns-handbook
 This is a personal repository to store useful and quick information about Design Patterns and its implementation in Java
 
+# The repository is currently under construction!
+
 # Repository Structure
 - Introduction
   - Better way to drive throught the project 
@@ -8,7 +10,8 @@ This is a personal repository to store useful and quick information about Design
 - Core
   - Summary of all theory
   - Application table of all the patterns
-
+- Integration Projects
+  - 
 ---
   
 ## Introduction
